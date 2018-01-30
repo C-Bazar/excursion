@@ -24,3 +24,8 @@ h2 {
   margin: 0 auto;
   width: 400px;
 }
+
+#copyright {
+  text-align: right;
+  color: gray;
+}
